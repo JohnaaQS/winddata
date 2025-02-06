@@ -1,0 +1,2 @@
+with open('/home/rpi/ICT-projecten-main1/Programmas/weather_data.csv', "a") as log:
+    log.write("Tijdstip, ApparaatTemperatuur (°C), Temperatuur (°C), Luchtdruk (hPa), Luchtvochtigheid (%), Lichtintensiteit (lux), Windsnelheid (m/s), Windrichting (graden)")
